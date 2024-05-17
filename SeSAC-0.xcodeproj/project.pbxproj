@@ -17,6 +17,7 @@
 		CED862402BF5A2D6000B0023 /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED8623F2BF5A2D6000B0023 /* ProfileViewController.swift */; };
 		CED862422BF5A57D000B0023 /* SettingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED862412BF5A57D000B0023 /* SettingViewController.swift */; };
 		CEDD03422BF5D2840092B627 /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEDD03412BF5D2840092B627 /* SearchViewController.swift */; };
+		CEF204A42BF72255001217F4 /* ExampleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEF204A32BF72255001217F4 /* ExampleViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		CED8623F2BF5A2D6000B0023 /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
 		CED862412BF5A57D000B0023 /* SettingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingViewController.swift; sourceTree = "<group>"; };
 		CEDD03412BF5D2840092B627 /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
+		CEF204A32BF72255001217F4 /* ExampleViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExampleViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +75,7 @@
 				CED862312BF58AEB000B0023 /* LaunchScreen.storyboard */,
 				CED862342BF58AEB000B0023 /* Info.plist */,
 				CED8623F2BF5A2D6000B0023 /* ProfileViewController.swift */,
+				CEF204A32BF72255001217F4 /* ExampleViewController.swift */,
 				CED862412BF5A57D000B0023 /* SettingViewController.swift */,
 			);
 			path = "SeSAC-0";
@@ -159,6 +162,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CED862402BF5A2D6000B0023 /* ProfileViewController.swift in Sources */,
+				CEF204A42BF72255001217F4 /* ExampleViewController.swift in Sources */,
 				CEDD03422BF5D2840092B627 /* SearchViewController.swift in Sources */,
 				CED8622B2BF58AE8000B0023 /* ViewController.swift in Sources */,
 				CED862272BF58AE8000B0023 /* AppDelegate.swift in Sources */,
